@@ -1,9 +1,15 @@
+
+
 .nav{
     background-image: url(./img/pattern.png);
     background-color: rgb(65, 139, 255);
 }
 
 .logo{
-    height:100px;
+    height:55px;
     width: 200px;
+}
+
+#span{
+    color:rgb(57, 162, 226);
 }
