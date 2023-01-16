@@ -3,6 +3,7 @@
 .nav{
     background-image: url(./img/pattern.png);
     background-color: rgb(65, 139, 255);
+    background-size: 290px;
 }
 
 .logo{
@@ -34,4 +35,21 @@
   #interesse{
     color: rgb(109, 109, 109);
 
+  }
+
+  .primacolonna{
+    width: 100px;
+  }
+  h3 {
+    margin: 0px;
+    background-image: url('./img/monitor.jpg');
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+   
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 260px;
+    
+    width: 240px;
+    height: 150px;
   }
