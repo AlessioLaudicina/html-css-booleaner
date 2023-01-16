@@ -6,7 +6,7 @@
 }
 
 .logo{
-    height:55px;
+    height: 65px;
     width: 200px;
 }
 
@@ -16,13 +16,22 @@
 
 
 .table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
+    
+    text-decoration: none;
     width: 100%;
-    text-align: left;
+    
   }
-  
+  #colonna{
+    background-color:rgb(32, 151, 223);
+    color: #fff;
+    height:15px;
+  }
 
   tr:nth-child(even) {
     background-color: rgb(162, 220, 238);
+  }
+  
+  #interesse{
+    color: rgb(109, 109, 109);
+
   }
