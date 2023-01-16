@@ -13,3 +13,16 @@
 #span{
     color:rgb(57, 162, 226);
 }
+
+
+.table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+  }
+  
+
+  tr:nth-child(even) {
+    background-color: rgb(162, 220, 238);
+  }
