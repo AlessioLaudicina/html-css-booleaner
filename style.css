@@ -3,18 +3,23 @@
 .nav{
     background-image: url(./img/pattern.png);
     background-color: rgb(65, 139, 255);
-    background-size: 290px;
+    background-size: 33%;
 }
 
 .logo{
     height: 65px;
     width: 200px;
+    margin-top: 30px;
 }
 
 #span{
     color:rgb(57, 162, 226);
 }
 
+
+.caption{
+  font-size: 12px;
+}
 
 .table {
     
