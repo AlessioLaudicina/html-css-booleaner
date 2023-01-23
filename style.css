@@ -22,9 +22,9 @@
 }
 
 .table {
-    
     text-decoration: none;
     width: 100%;
+    border-spacing: 0;
     
   }
   #colonna{
@@ -39,6 +39,8 @@
   
   #interesse{
     color: rgb(109, 109, 109);
+    font-size: 16px;
+    font-style: bold;
 
   }
 
@@ -46,21 +48,20 @@
     width: 100px;
   }
   #immagine1{
-    margin: 0px;
+    
     background-image: url('./img/monitor.jpg');
     background-repeat: no-repeat;
     color: #FFFFFF;
-   text-align: top;
+    text-align: left;
     font-size: 140%;
     font-weight: normal;
     line-height: 260px;
-    
+    margin-top: 5px;
     width: 240px;
     height: 150px;
   }
 
   #immagine2{
-    margin: 0px;
     background-image: url('./img/graph.jpg');
     background-repeat: no-repeat;
     color: #FFFFFF;

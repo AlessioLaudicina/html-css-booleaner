@@ -1,5 +1,12 @@
 
 
+.container{
+  margin: auto;
+  max-width: 1060px;
+  margin-top: 10px;
+}
+
+
 .nav{
     background-image: url(./img/pattern.png);
     background-color: rgb(65, 139, 255);
@@ -9,6 +16,8 @@
 .logo{
     height: 65px;
     width: 200px;
+    margin-left: 180px;
+    padding-top: 10px;
 }
 
 #span{
